@@ -1,6 +1,9 @@
 <!--## Hi there 👋-->
 
-<img align="center" src="IMG20220414182152.jpg" width="120" style="border-radius: 50%" />
+<p align="center">
+  <img src="images/IMG20220414182152.jpg" width="300" style="border-radius: 50%;" />
+</p>
+
 
 <h1 align="center">Hey 👋, I'm Aditya</h1>
 <p align="center">🌱 Building <b>HabitBuddy</b> – Track habits, stay consistent!</p>
