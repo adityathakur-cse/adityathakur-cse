@@ -5,6 +5,10 @@
 <h1 align="center">Hey 👋, I'm Aditya</h1>
 <p align="center">🌱 Building <b>HabitBuddy</b> – Track habits, stay consistent!</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityathakur-cse&color=blue" alt="Profile views" />
+</p>
+
 ---
 
 🧠 **About Me**
