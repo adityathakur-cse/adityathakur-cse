@@ -22,9 +22,9 @@
 ---
 
 📫 **Connect with me:**<br>
-<a href="https://www.linkedin.com/in/ad1tyathakur/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" /></a><br>
-<a href="https://github.com/adityathakur-cse" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=flat" /></a><br>
-<a href="mailto:adithakurji@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=flat" /></a><br>
+<a href="https://www.linkedin.com/in/ad1tyathakur/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/adityathakur-cse" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=flat" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:adithakurji@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=flat" /></a>
 
 ---
 
