@@ -1,7 +1,7 @@
 <!--## Hi there 👋-->
 
 <p align="center">
-  <img src="images/IMG20220414182152.jpg" width="300" style="border-radius: 50%;" />
+  <img src="IMG20220414182152.jpg" width="300" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Aditya</h1>
