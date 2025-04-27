@@ -13,7 +13,7 @@
 
 ---
 
-<h1 align="center">🧠 **About Me** </h1>
+🧠 **About Me**
 - 💻 Full Stack Developer with a passion for building scalable, end-to-end solutions.
 - 🔥 Bringing ideas to life through full stack magic — UI to database and everything between.
 <!-- - 🔭 Currently working on: HabitBuddy -->
