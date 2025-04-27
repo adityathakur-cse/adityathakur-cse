@@ -16,7 +16,7 @@
 🧠 **About Me**
 - 💻 Full Stack Developer with a passion for building scalable, end-to-end solutions.
 - 🔥 Bringing ideas to life through full stack magic — UI to database and everything between.
-<!-- - 🔭 Currently working on: HabitBuddy -->
+- 🔭 Currently working on: HabitBuddy
 - ⚡ Fun Fact: I stay productive by tracking distractions!
 
 ---
@@ -31,8 +31,8 @@
 
 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityathakur-cse&layout=compact&theme=tokyonight" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=adityathakur-cse&show_icons=true&theme=tokyonight" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=adityathakur-cse&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityathakur-cse&layout=compact&theme=tokyonight" />
 </p>
 
 ---
